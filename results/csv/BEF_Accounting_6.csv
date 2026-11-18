@@ -1,0 +1,7 @@
+Method_output,Query_budget_conditions,Complete_scored_A,Loss_A_to_B,Output_completion,Complete_final_B
+Raw,9000,4148,433,0,3715
+EdgeMean,9000,4858,836,0,4022
+SBH,9000,5048,928,0,4120
+GAR-CP,9000,4690,721,0,3969
+ORE-CP mixed,9000,4558,1394,53,3217
+ORE-CP-SO,9000,4558,638,0,3920

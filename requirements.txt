@@ -1,0 +1,4 @@
+# Packages in the successfully tested CPU release environment; not a historical lockfile.
+# Python 3.11 was used. Optional model/Java/ORE backends are externally supplied.
+numpy==2.4.6
+pandas==3.0.3

@@ -1,0 +1,7 @@
+﻿intervention,level_percent,raw_A_CER_percent,edge_mean_A_CER_percent,sbh_A_CER_percent,sbh_minus_edge_pp_from_display
+baseline,0,46.089,53.978,56.089,2.111
+hyperedge_deletion,10,46.089,53.202,55.058,1.856
+hyperedge_deletion,30,46.089,51.762,52.896,1.134
+hyperedge_deletion,50,46.089,50.040,50.784,0.744
+membership_insertion,10,46.089,53.660,55.827,2.167
+membership_insertion,20,46.089,53.480,55.591,2.111

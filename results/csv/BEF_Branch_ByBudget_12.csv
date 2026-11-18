@@ -1,0 +1,13 @@
+Budget_M,Eligible_conditions,Terminal_outcome,Count,Share_eligible_pct
+20,511,unreachable,26,5.08806262
+20,511,reachable_not_selected,124,24.26614481
+20,511,selected_final_incomplete,126,24.65753425
+20,511,selected_final_complete,235,45.98825832
+50,374,unreachable,10,2.67379679
+50,374,reachable_not_selected,29,7.7540107
+50,374,selected_final_incomplete,198,52.94117647
+50,374,selected_final_complete,137,36.63101604
+100,292,unreachable,4,1.36986301
+100,292,reachable_not_selected,11,3.76712329
+100,292,selected_final_incomplete,193,66.09589041
+100,292,selected_final_complete,84,28.76712329

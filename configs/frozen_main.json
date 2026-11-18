@@ -1,0 +1,16 @@
+{
+  "top_k": 1000,
+  "budgets": [
+    20,
+    50,
+    100
+  ],
+  "top_n": 10,
+  "rounds": 1,
+  "max_edge_size": 100,
+  "methods": {
+    "raw": 0.0,
+    "edge_mean_touched": 1.75,
+    "anchor_ic_max": 0.75
+  }
+}

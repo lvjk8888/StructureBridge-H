@@ -1,0 +1,8 @@
+Method,Questions,Mean_A_CER_pct,Mean_B_CER_pct,Design_note
+Raw,3000,44.777777778,40.9777777777,fixed coefficient; no independent tuning
+EdgeMean,3000,55.7444444443,45.4444444443,fixed coefficient; no independent tuning
+SBH,3000,57.111111111,46.3777777777,fixed coefficient; no independent tuning
+no-IC,3000,54.0222222223,44.2555555557,fixed coefficient; no independent tuning
+allow-self,3000,56.6888888887,45.8222222223,fixed coefficient; no independent tuning
+bounded-OR,3000,56.4777777777,46.1,fixed coefficient; no independent tuning
+diffusion,3000,54.6888888887,45.3333333333,fixed coefficient; no independent tuning

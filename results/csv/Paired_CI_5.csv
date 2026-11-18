@@ -1,0 +1,6 @@
+Comparator,Independent_questions,SBH_minus_B_CER_pp,B_95CI_lower_pp,B_95CI_upper_pp,SBH_minus_F1_pp,F1_95CI_lower_pp,F1_95CI_upper_pp,F1_comparison_status,B_CI_status
+Raw,3000,4.5,3.8,5.2,2.24428663646,1.53793574471,2.97359881168,post-hoc/supplementary comparison,post-hoc B-CER interval
+EdgeMean,3000,1.08888888889,0.722222222222,1.46666666667,0.394004899969,-0.198653463042,0.989820537428,pre-specified F1 main comparison,post-hoc B-CER interval
+GAR-CP,3000,1.67777777778,1.15555555556,2.21111111111,1.36026221119,0.701436256772,2.03939588168,post-hoc/supplementary comparison,post-hoc B-CER interval
+ORE-CP (mixed),3000,10.0333333333,9.21111111111,10.8444444444,3.90579268086,3.10385881322,4.69516175525,post-hoc/supplementary comparison,post-hoc B-CER interval
+ORE-CP-SO (post hoc),3000,2.22222222222,1.64444444444,2.8,0.618873649621,-0.0567670218782,1.31592977341,post-hoc/supplementary comparison,post-hoc B-CER interval
