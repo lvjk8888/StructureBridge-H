@@ -8,7 +8,7 @@ Attribution 4.0 International (CC BY 4.0)** license.
 
 License: https://creativecommons.org/licenses/by/4.0/legalcode
 
-Suggested attribution: [RESULTS RIGHTSHOLDER(S)], *StructureBridge-H: curated
+Suggested attribution: Jiankun Lv, *StructureBridge-H: curated
 aggregate experimental results* (2026), CC BY 4.0. Include a link to the
 source repository when redistributing and indicate any modifications.
 
